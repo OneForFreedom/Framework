@@ -7,7 +7,7 @@ Okay, to begin with, I decided to search the dimentions of the laptop! I found i
 
 from there, I'll just create a sketch using rough estimates of everything
 
-Top Bit done!
+# Top Bit done!
 
 I finished making the top bit of the framework laptop! This was the Easiest bit in this whole thing, making the logo on the top of the laptop was the difficult part, but overall, it took me 2 hours, not that shabby!
 
@@ -18,3 +18,17 @@ TIME TAKEN (TT) : 2 HOURS
 
 TOTAL TIME TAKEN (TTT) : 2 HOURS
 
+# Done some more things!
+
+- Added Hinges
+- Added expansion card slots on one side
+- Added small camera hole on the screen
+- Done some colouring
+- Added K lock hole
+
+<img width="1684" height="455" alt="image" src="https://github.com/user-attachments/assets/42f740c1-8789-495f-b1eb-0f335e056ba6" />
+
+
+  TT : 2 HRS
+
+  TTT: 4 HRS
