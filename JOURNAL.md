@@ -69,3 +69,8 @@ I spent one hour on this and I only made a trackpad and 4 keys, it took soo long
 TT : 1 HR
 
 TTT: 9 HRS
+
+Taking a different approach on this:
+
+<img width="1361" height="610" alt="image" src="https://github.com/user-attachments/assets/87c215d3-6fe9-493b-a823-85c2eee4bf63" />
+
