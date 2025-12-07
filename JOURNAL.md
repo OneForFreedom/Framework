@@ -49,3 +49,13 @@ TOTAL TIME TAKEN (TTT) : 2 HOURS
 TT : 3 HRS
 
 TTT : 7 HRS
+
+# Let bro breathe
+
+I added some vents! I also coloured them in. Colouring each vent was painfully hard. 
+
+<img width="1577" height="348" alt="image" src="https://github.com/user-attachments/assets/ad142e70-1658-45b2-a186-6a24997b42ec" />
+
+TT : 1 HR
+
+TTT : 8 HRS
