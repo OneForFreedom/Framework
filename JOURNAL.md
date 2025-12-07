@@ -74,3 +74,12 @@ Taking a different approach on this:
 
 <img width="1361" height="610" alt="image" src="https://github.com/user-attachments/assets/87c215d3-6fe9-493b-a823-85c2eee4bf63" />
 
+# Two more rows!!
+
+There's only TWO more rows left!!! My hand is starting to hurt but I'm adamant on finishing what i started!
+
+<img width="790" height="615" alt="image" src="https://github.com/user-attachments/assets/7c577525-c71e-47ea-b6f5-aa095ff87608" />
+
+TT  : 1H
+
+TTT : 10 HRS
