@@ -32,3 +32,20 @@ TOTAL TIME TAKEN (TTT) : 2 HOURS
   TT : 2 HRS
 
   TTT: 4 HRS
+
+# Done even more things!
+
+- Made the bottom!
+- Made all the ports on each side - God this took the longest
+- Added power button.
+- Coloured some bits and bobs in.
+
+- Redid all the ports because my pc bsod'd and I lost all the work I didn't save.
+
+  God who knew making a laptop was gonna be soo hard, Now I'm off to making screw holes in the bottom of the laptop, then I'll be adding a keyboard and a trackpad, After that I'll be making some EXPANSION CARDS!!
+
+  <img width="1046" height="515" alt="image" src="https://github.com/user-attachments/assets/c10cb38a-2c66-4894-a503-ca7b2310b6a1" />
+
+TT : 3 HRS
+
+TTT : 7 HRS
