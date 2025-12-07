@@ -59,3 +59,13 @@ I added some vents! I also coloured them in. Colouring each vent was painfully h
 TT : 1 HR
 
 TTT : 8 HRS
+
+# WHY TF IS THIS TAKING SOO LONG?
+
+I spent one hour on this and I only made a trackpad and 4 keys, it took soo long because I made each of those 4 keys individually. I also coloured the inside, did some extruding of the trackpad and the little dip in the keyboard
+
+<img width="721" height="523" alt="image" src="https://github.com/user-attachments/assets/d61f5e3e-6369-4f46-b29f-af9488d99b45" />
+
+TT : 1 HR
+
+TTT: 9 HRS
