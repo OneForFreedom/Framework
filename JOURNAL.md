@@ -95,3 +95,17 @@ I finally finished sketching all the keycaps AND i extruded them! Now all I got 
 TT : 1H
 
 TTT : 11 HRS
+
+# IT'S DONE!!
+
+I FINALLY FINISHED IT!
+
+The keyboard looks awesome! and I'd say it looks great! Filleting each corner took me soo long, I had to select almost 400 corners!
+
+I'm gonna make some expansion cards, then I will be OFFICIALLY done!
+
+<img width="1615" height="656" alt="image" src="https://github.com/user-attachments/assets/95881bbf-179c-41f1-b8ce-31c68a776f36" />
+
+TT : 2 HRS
+
+TTT : 13 HRS
