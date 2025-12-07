@@ -104,6 +104,8 @@ The keyboard looks awesome! and I'd say it looks great! Filleting each corner to
 
 I'm gonna make some expansion cards, then I will be OFFICIALLY done!
 
+I ommited some of the keycaps to show you how perfect it is!
+
 <img width="1615" height="656" alt="image" src="https://github.com/user-attachments/assets/95881bbf-179c-41f1-b8ce-31c68a776f36" />
 
 TT : 2 HRS
