@@ -38,7 +38,7 @@ TOTAL TIME TAKEN (TTT) : 2 HOURS
 - Made the bottom!
 - Made all the ports on each side - God this took the longest
 - Added power button.
-- Coloured some bits and bobs in.
+- Coloured some more bits and bobs in.
 
 - Redid all the ports because my pc bsod'd and I lost all the work I didn't save.
 
