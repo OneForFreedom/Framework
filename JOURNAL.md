@@ -83,3 +83,15 @@ There's only TWO more rows left!!! My hand is starting to hurt but I'm adamant o
 TT  : 1H
 
 TTT : 10 HRS
+
+# KEY CAPS!!!!
+
+I finally finished sketching all the keycaps AND i extruded them! Now all I got to do is tediuously fillet them and do the finer details!!
+
+<img width="1246" height="623" alt="image" src="https://github.com/user-attachments/assets/216c92cd-b0f5-4a7a-bb3b-b6a09b545410" />
+
+<img width="869" height="610" alt="image" src="https://github.com/user-attachments/assets/fabeb53a-3ee8-40f0-8af7-6e723bf3b15f" />
+
+TT : 1H
+
+TTT : 11 HRS
