@@ -6,3 +6,15 @@ Okay, to begin with, I decided to search the dimentions of the laptop! I found i
 <img width="735" height="710" alt="image" src="https://github.com/user-attachments/assets/57b9826e-1a91-4051-bf8d-0cbebe388700" />
 
 from there, I'll just create a sketch using rough estimates of everything
+
+Top Bit done!
+
+I finished making the top bit of the framework laptop! This was the Easiest bit in this whole thing, making the logo on the top of the laptop was the difficult part, but overall, it took me 2 hours, not that shabby!
+
+<img width="1001" height="636" alt="image" src="https://github.com/user-attachments/assets/e9844816-2419-401b-a7c4-e986d32ba6a0" />
+<img width="1084" height="612" alt="image" src="https://github.com/user-attachments/assets/ca5aa57f-2e89-4cd3-b810-f8ec63a4f7b2" />
+
+TIME TAKEN (TT) : 2 HOURS
+
+TOTAL TIME TAKEN (TTT) : 2 HOURS
+
