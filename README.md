@@ -3,7 +3,7 @@ I'm gonna cad the framework laptop 12!
 
 ## Cad link: https://cad.onshape.com/documents/057229354b24dd1f65df8adb/w/71d43d0a2fb915ae2e0ea281/e/334481fbe385f92ed8a10119?renderMode=0&uiState=693687eade021a7350082d36
 
-reload if you get a 403 error!
+reload if you get a 403 error.. or just open it in a new tab.
 
 ## Renders!
 
