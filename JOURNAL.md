@@ -111,3 +111,15 @@ I ommited some of the keycaps to show you how perfect it is!
 TT : 2 HRS
 
 TTT : 13 HRS
+
+# Now I'm Truley done!
+
+<img width="1165" height="536" alt="image" src="https://github.com/user-attachments/assets/a68871db-1486-4506-8f8f-6eb67bf35ba0" />
+
+I made blank expansion cards! There's 4 on the pc itself and 1 extra!
+
+TT : 1 HR
+
+TTT : 14 HRS
+
+## I cba to animate it! But cool renders are found in readme!
