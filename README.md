@@ -18,3 +18,5 @@ reload if you get a 403 error.. or just open it in a new tab.
 <img width="1540" height="495" alt="Screenshot 2025-12-08 004902" src="https://github.com/user-attachments/assets/d129842c-7ad4-486e-a014-351f2f4f2638" />
 
 <img width="883" height="624" alt="Screenshot 2025-12-08 004851" src="https://github.com/user-attachments/assets/942cd2d0-c947-4861-b94c-f274c6acef3f" />
+
+## Physical Models!
